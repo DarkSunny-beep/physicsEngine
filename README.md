@@ -14,7 +14,7 @@ In this README, I will focus only on explaining the core code and providing any 
 https://github.com/user-attachments/assets/a490b9fd-7ab2-4b01-bfbe-5cebbd12ca09
 
 
-3. breakable Bridge Demo (+implemented destruction logic).
+2. breakable Bridge Demo (+implemented destruction logic).
 
 https://github.com/user-attachments/assets/e975d42e-5ed2-47a0-b2ef-d9f48025a487
 
