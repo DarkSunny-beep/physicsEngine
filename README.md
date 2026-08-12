@@ -14,8 +14,9 @@ In this README, I will focus only on explaining the core code and providing any 
 <video src="./demoMov/bridgeDemo.mov" controls width="100%"></video>
 
 
-2. breakable Bridge Demo (+implemented destruction logic)
-<video src="./demoMov/breakableBridgeDemo.mov" controls width="100%"></video>
+2. breakable Bridge Demo (+implemented destruction logic).
+
+<video src="./demoMov/breakableBridgeDemo.mp4" controls width="100%"></video>
 https://github.com/user-attachments/assets/e36ad5cf-1dec-4036-86b7-98e6bcddc3a0
 
 ** You can read more details on this website. (Notion)  
