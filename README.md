@@ -11,13 +11,13 @@ In this README, I will focus only on explaining the core code and providing any 
 
 1. basic bridge Demo
 
-<video src="./demoMov/bridgeDemo.mov" controls width="100%"></video>
+https://github.com/user-attachments/assets/a490b9fd-7ab2-4b01-bfbe-5cebbd12ca09
 
 
-2. breakable Bridge Demo (+implemented destruction logic).
+3. breakable Bridge Demo (+implemented destruction logic).
 
-<video src="./demoMov/breakableBridgeDemo.mp4" controls width="100%"></video>
-https://github.com/user-attachments/assets/e36ad5cf-1dec-4036-86b7-98e6bcddc3a0
+https://github.com/user-attachments/assets/e975d42e-5ed2-47a0-b2ef-d9f48025a487
+
 
 ** You can read more details on this website. (Notion)  
 https://glib-spell-c41.notion.site/breakableBridgeDemo-3b955979569c805f9ce5f52345aa2773?pvs=143
