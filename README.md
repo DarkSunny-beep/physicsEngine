@@ -10,7 +10,7 @@ In this README, I will focus only on explaining the core code and providing any 
 # Breakable Bridge Demo
 
 1. basic bridge Demo  
-<video src="./demoMov/bridge.mov" controls width="100%"></video>
+<video src="./demoMov/bridgeDemo.mov" controls width="100%"></video>
 
 
 2. breakable Bridge Demo (+implemented destruction logic)  
